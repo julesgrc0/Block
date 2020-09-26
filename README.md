@@ -1,6 +1,6 @@
 ## Block
 
-See the project https://julesg10.itch.io/block or download it https://github.com/JulesG10/Block/blob/master/Block.zip.
+See the project https://julesg10.itch.io/block or download it .
 
 >Controls for moving around the game:
 
